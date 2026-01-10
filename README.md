@@ -15,7 +15,7 @@ Apply hyperparameter tuning
 Observe the effect of tuning on model accuracy
 
 ---
-🧠 Algorithms Used
+## 🧠 Algorithms Used
 
 Logistic Regression (Baseline Linear Model)
 
@@ -25,7 +25,7 @@ Default parameters
 
 Tuned using GridSearchCV
 ---
-📊 Dataset
+## 📊 Dataset
 
 Name: Iris Dataset
 
@@ -36,7 +36,7 @@ Classes: Setosa, Versicolor, Virginica
 Features: Sepal length, Sepal width, Petal length, Petal width
 
 ---
-⚙️ Workflow
+## ⚙️ Workflow
 1️⃣ Logistic Regression (Baseline Model)
 
 Trained with default parameters
@@ -70,7 +70,7 @@ criterion
 Best parameters selected based on mean cross-validation accuracy
 
 ---
-4️⃣ Final Model
+## 4️⃣ Final Model
 
 Random Forest trained using the best hyperparameters
 
@@ -79,7 +79,7 @@ Evaluated on test data
 Compared against baseline models
 
 ---
-🏆 Results Summary
+## 🏆 Results Summary
 
 Model	Hyperparameter Tuning	Accuracy
 Logistic Regression	❌	~1.00
@@ -91,7 +91,7 @@ The Iris dataset is simple and well-separated, so hyperparameter tuning does not
 This behavior is expected and validates the correctness of the ML pipeline.
 
 ---
-🧪 Key Learnings
+## 🧪 Key Learnings
 
 Hyperparameter tuning follows the same process for all algorithms
 
@@ -104,7 +104,7 @@ Tuning does not always guarantee better accuracy
 Proper comparison requires a baseline model
 
 ---
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -117,7 +117,7 @@ Scikit-learn
 Jupyter Notebook
 
 ---
-🎯 Conclusion
+## 🎯 Conclusion
 
 This project demonstrates a clean and structured approach to:
 
