@@ -17,7 +17,7 @@ Observe the effect of tuning on model accurac
 ---
 ## 🧠 Algorithms Used
 
-Logistic Regression (Baseline Linear Model)
+Logistic Regression (Baseline Linear Model
 
 Random Forest Classifier
 
