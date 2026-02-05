@@ -12,7 +12,7 @@ Compare different ML algorithms
 
 Apply hyperparameter tuning
 
-Observe the effect of tuning on model accuracy
+Observe the effect of tuning on model accurac
 
 ---
 ## 🧠 Algorithms Used
